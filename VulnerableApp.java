@@ -4,6 +4,7 @@ import java.sql.*;
 import java.io.*;
 import javax.servlet.http.*;
 
+
 public class VulnerableApp {
     
     // VULNERABILITY 1: SQL Injection
